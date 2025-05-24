@@ -31,9 +31,7 @@
 - [Пользовательские истории](./usm/usm_page.md)
 - [Требования к качеству интерфейсов](./interfaces/requirements.md)
 - [Интерфейс и навигация](./interfaces/interfaces_page.md)
-- Сценарии использования:
-  - [Реестр Use Case](./use_case/uc_list.md)
-  - [CRUDL](./use_case/crudl.md)
+- [Сценарии использования](./use_case/uc_page.md)
     
 
 ## Системный анализ и проектирование
