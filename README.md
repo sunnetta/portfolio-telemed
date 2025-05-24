@@ -32,8 +32,8 @@
 - [Требования к качеству интерфейсов](./interfaces/requirements.md)
 - [Интерфейс и навигация](./interfaces/interfaces_page.md)
 - Сценарии использования:
-  - [Реестр Use Case]()
-  - [CRUDL]()
+  - [Реестр Use Case](./use_case/uc_list.md)
+  - [CRUDL](./use_case/crudl.md)
     
 
 ## Системный анализ и проектирование
