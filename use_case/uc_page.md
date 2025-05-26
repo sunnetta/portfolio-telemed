@@ -5,4 +5,4 @@
 
 ### Use Case Diagram
 
-![ucd](./ucd.png)
+![ucd](./ucd.jpg)
