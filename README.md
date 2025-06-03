@@ -40,7 +40,7 @@
   - [Концептуальная модель данных](./data/concept_data_model.jpg)
   - [Словарь данных](./data/data_dict.md)
 - Требования к ПО:
-  - [Функциональные требования]()
+  - [Функциональные требования](./requirements/functional_req.md)
   - [Ограничения](./requirements/restrictions.md)
   - [Требования к внешнему качеству](./requirements/quality.md)
 - Информационная безопасность:
