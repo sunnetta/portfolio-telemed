@@ -44,11 +44,11 @@
   - [Ограничения](./requirements/restrictions.md)
   - [Требования к внешнему качеству](./requirements/quality.md)
 - Информационная безопасность
-  - [Источники угрозы](./threats.md)
-  - [Уязвимости](./vulnerabilities.md)
-  - [Данные и методы защиты](./data_protection.md)
-  - [Риски](./risks.md)
-  - [Контрмеры по предотвращению рисков](./reactions.pdf)
+  - [Источники угрозы](./security/threats.md)
+  - [Уязвимости](./security/vulnerabilities.md)
+  - [Данные и методы защиты](./security/data_protection.md)
+  - [Риски](./security/risks.md)
+  - [Контрмеры по предотвращению рисков](./security/reactions.pdf)
 
 ## Архитектура и базы данных
 
