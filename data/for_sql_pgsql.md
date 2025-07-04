@@ -1,3 +1,4 @@
+```sql
 CREATE TABLE "Patient"(
     "id" BIGINT NOT NULL,
     "date_of_create" TIMESTAMP(0) WITHOUT TIME ZONE NOT NULL,
@@ -31,11 +32,6 @@ CREATE TABLE "Consultation"(
     "review_id" BIGINT NULL,
     "patient_id" BIGINT NOT NULL
 );
-ALTER TABLE
-    "Consultation" ADD PRIMARY KEY("id");
-COMMENT
-ON COLUMN
-    "Consultation"."slot_id" IS 'Убрать так как связь через slot_consult';
 CREATE TABLE "StatusSlot"(
     "id" INTEGER NOT NULL,
     "status_name" CHAR(255) NOT NULL
@@ -107,3 +103,4 @@ ALTER TABLE
     "Consultation" ADD CONSTRAINT "consultation_patient_id_foreign" FOREIGN KEY("patient_id") REFERENCES "Patient"("id");
 ALTER TABLE
     "Doctor" ADD CONSTRAINT "doctor_specialization_id_foreign" FOREIGN KEY("specialization_id") REFERENCES "Specialization"("id");
+```
